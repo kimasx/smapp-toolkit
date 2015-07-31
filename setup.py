@@ -13,6 +13,7 @@ setup(name='smapp-toolkit',
           'smappPy>=0.1.16',
           'networkx>=1.9.1',
           'pandas>=0.16.1',
-          'simplejson'
+          'simplejson',
+          'seaborn'
       ]
      )
